@@ -1,0 +1,155 @@
+################################# Slider #####################################
+slider:
+  enable : true
+  bg_image : "images/banner/banner-1.jpg"
+  slider_item:
+    # slider item loop
+    - title : "Online Exam Preparation"
+      content : "If you’re into saving money without sacrificing quality, then choose EE”"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Register for FREE!"
+        link : "english-proficiency-test.html"
+
+    # slider item loop
+    - title : "OET page"
+      content : "Will route to OET page"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "OET Test Preparation"
+        link : "oet.html"
+
+    # slider item loop
+    - title : "IELTS"
+      content : "Will route to IELTS page”"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "IELTS Test Preparation"
+        link : "ielts.html"
+
+    # slider item loop
+    - title : "4th slide"
+      content : "Will route to another page”"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "contact us"
+        link : "contact"        
+
+
+############################### Banner feature ###############################
+banner_feature:
+  enable : true
+  image : "images/banner/banner-feature.png"
+  feature_item:
+    # feature item loop
+    - name : "One-on-One Tutorials"
+      icon : "ti-book" # icon pack : https://themify.me/themify-icons
+      content : "content here, can't create a list"
+
+    # feature item loop
+    - name : "Englishtests Learning Platform"
+      icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+
+    # feature item loop
+    - name : "Writing & Speaking Assessments"
+      icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+
+    # feature item loop
+    - name : "Live Classes"
+      icon : "ti-write" # icon pack : https://themify.me/themify-icons
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+
+
+############################## about ##################################
+about:
+  enable : true
+  title : "About The Englishtests Expert"
+  image : "images/about/about-us.jpg"
+  content : "EE is an efficiency obsessed centre that helps test takers save time on test preparation while increasing results. Every day we're driven to solve the world's English exams using developed and applied strategies on the actual tests. Using our preparation services are proven to help students improve by 0.5 - 1.5. Our IELTS and OET practice tests are based on actual recent exams and following the Cambridge IELTS and Occupational English Test book formats."
+  button:
+    enable : true
+    label : "Learn more"
+    link : "about"
+
+
+############################# Course ################################
+course:
+  enable : true
+  title : "Our Course"
+  # course item comes from "content/**/course" folder.
+
+########################## Call to action ############################
+cta:
+  enable : true
+  subtitle : "Click to Join the Advance Workshop"
+  title : "Training In Advannce Networking"
+  button:
+    enable : true
+    label : "join now"
+    link : "contact"
+
+
+######################## Success story #############################
+success_story:
+  enable : true
+  bg_image : "images/backgrounds/success-story.jpg"
+  title : "Success Stories"
+  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat.
+            
+            
+  ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+  dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
+  # video link
+  video_link : "https://www.youtube.com/watch?v=ResipmZmpDU"
+
+
+############################# event ################################
+event:
+  enable : true
+  title : "Upcoming Events"
+  # event item comes from "content/**/event" folder.
+
+  
+########################### funfacts ############################
+funfacts:
+  enable : true
+  funfact_item:
+    # funfact item loop
+    - name : "TEACHERS"
+      count : "60"
+
+    # funfact item loop
+    - name : "COURSES"
+      count : "50"
+
+    # funfact item loop
+    - name : "STUDENTS"
+      count : "1000"
+
+    # funfact item loop
+    - name : "SATISFIED CLIENT"
+      count : "1400"
+
+# funfact is for about page
+
+
+
+############################# blog ################################
+blog:
+  enable : true
+  title : "Latest News"
+  # blog item comes from "content/**/blog" folder.
