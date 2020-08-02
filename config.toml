@@ -140,9 +140,10 @@ email = "info@englishtestsexpert.co.uk"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
-google_analitycs_id = "" # your id
+google_analitycs_id = "1234" # your id
 # top header
 top_header = true
+
 
 # Preloader
 [params.preloader]

@@ -277,14 +277,6 @@
   </url>
   
   <url>
-    <loc>https://eewebsite.netlify.app/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>https://eewebsite.netlify.app/teacher/alex-rook/</loc>
-  </url>
-  
-  <url>
     <loc>https://eewebsite.netlify.app/author/</loc>
   </url>
   
@@ -302,6 +294,10 @@
   
   <url>
     <loc>https://eewebsite.netlify.app/teacher/clark-malik/</loc>
+  </url>
+  
+  <url>
+    <loc>https://eewebsite.netlify.app/contact/</loc>
   </url>
   
   <url>
@@ -326,6 +322,10 @@
   
   <url>
     <loc>https://eewebsite.netlify.app/teacher/</loc>
+  </url>
+  
+  <url>
+    <loc>https://eewebsite.netlify.app/teacher/alex-rook/</loc>
   </url>
   
   <url>

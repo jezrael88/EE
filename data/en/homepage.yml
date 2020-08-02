@@ -1,11 +1,11 @@
 ################################# Slider #####################################
 slider:
   enable : true
-  bg_image : "images/banner/banner-1.jpg"
+  bg_image : "images/banner/banner-2.jpg"
   slider_item:
     # slider item loop
-    - title : "Online Exam Preparation"
-      content : "If you’re into saving money without sacrificing quality, then choose EE”"
+    - title : "Online Course Programmes"
+      content : "Unlike other IELTS courses online, we do not leave you to yourself.  You will have real lessons from a Cambridge Certified IELTS Expert to determine your weak areas and improve them."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -15,37 +15,37 @@ slider:
         link : "english-proficiency-test.html"
 
     # slider item loop
-    - title : "OET page"
-      content : "Will route to OET page"
+    - title : "Our Victory Secrets For Your Success"
+      content : "We've helped over 5,904 students worldwide and counting!"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "OET Test Preparation"
+        label : "Join us for FREE!"
         link : "oet.html"
 
     # slider item loop
-    - title : "IELTS"
-      content : "Will route to IELTS page”"
+    - title : "Student-centered learning, 24/7 supported"
+      content : "A very good online platform for IELTS preparation especially Roland is an awesome teacher. He gave me the best instruction for writing module. Their attitude and service is so nice. If anyone seeks for an online teacher I will recommend Roland and this page. They can give proper guidelines and structures for IELTS – Shaf, Bangladesh"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "IELTS Test Preparation"
-        link : "ielts.html"
+        label : "See Student Reviews"
+        link : "https://www.facebook.com/pg/englishtestsexpert/reviews"
 
     # slider item loop
-    - title : "4th slide"
-      content : "Will route to another page”"
+    - title : "How good is your English?"
+      content : "Start by taking our English level test for FEE!"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "contact us"
-        link : "contact"        
+        label : "FREE English Test"
+        link : "english-proficiency-test.html"        
 
 
 ############################### Banner feature ###############################
@@ -54,24 +54,24 @@ banner_feature:
   image : "images/banner/banner-feature.png"
   feature_item:
     # feature item loop
-    - name : "One-on-One Tutorials"
-      icon : "ti-book" # icon pack : https://themify.me/themify-icons
-      content : "content here, can't create a list"
+    - name : "Unli 1-on-1 Tutorials"
+      icon : "ti-user" # icon pack : https://themify.me/themify-icons
+      content : "A Step-by-step Personal Guidance with a Cambridge Certified IELTS Expert Unlimited & ‘Until You Pass’, ensuring you have understood the lessons and addressing your weak areas on each component."
 
     # feature item loop
-    - name : "Englishtests Learning Platform"
-      icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+    - name : "Unli Access to Englishtests Platform"
+      icon : "ti-desktop" # icon pack : https://themify.me/themify-icons
+      content : "You will receive our detailed Victory Secrets Guide and/or unlimited access to our online learning platform to cover Reading, Writing, Listening and Speaking modules. This includes Practice Materials, Authentic Mock Tests and many more!"
 
     # feature item loop
-    - name : "Writing & Speaking Assessments"
-      icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+    - name : "Unli Writing & Speaking Assessments"
+      icon : "ti-infinite" # icon pack : https://themify.me/themify-icons
+      content : "You will get your weekly detailed assessment by a linguist, member of National Union of Journalists UK and a Cambridge Certified IELTS Expert.  You will encounter every type of IELTS writing question so nothing should surprise you on the exam day."
 
     # feature item loop
-    - name : "Live Classes"
-      icon : "ti-write" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+    - name : "Unli Live Classes"
+      icon : "ti-headphone-alt" # icon pack : https://themify.me/themify-icons
+      content : "You will not be alone - you will have live training and Q&A session - every day! Our experts will support you all the way so you can save time and money to get your score target in one-take."
 
 
 ############################## about ##################################
@@ -95,11 +95,11 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Click to Join the Advance Workshop"
-  title : "Training In Advannce Networking"
+  subtitle : "FREE IELTS/OET Live Training with a Cambridge Certified IELTS Expert"
+  title : "Click to Join the IELTS/OET Masterclass"
   button:
     enable : true
-    label : "join now"
+    label : "Join Now"
     link : "contact"
 
 
@@ -108,11 +108,9 @@ success_story:
   enable : true
   bg_image : "images/backgrounds/success-story.jpg"
   title : "Success Stories"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat.
-            
-            
-  ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-  dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
+  content : |
+            "Personally, I think Englishtests Experts is the best place for online IELTS preparation, especially for working people like me. Thank you Mr. Roland for providing me with detailed feedback for every writing task. I will definitely recommend it to everyone who is planning to sit in the IELTS test and want to achieve their desired band score. -Riya, India"
+             test
   # video link
   video_link : "https://www.youtube.com/watch?v=ResipmZmpDU"
 
