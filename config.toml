@@ -60,22 +60,25 @@ name = "course"
 URL = "course"
 weight = 3
 
-
-  
 [[menu.main]]
 name = "blog"
 URL = "blog"
-weight = 5
+weight = 6
   
 [[menu.main]]
 name = "Contact"
 URL = "contact"
-weight = 6
+weight = 7
 
 [[menu.main]]
 name = "Testimonials"
 URL = "https://www.facebook.com/"
-weight = 7
+weight = 4
+
+[[menu.main]]
+name = "About us"
+URL = "about"
+weight = 5
 
 # footer menu
 
@@ -107,7 +110,7 @@ logo = "images/logo.png"
 description = "This is meta description"
 author = "Themefisher"
 # contact info
-mobile = "+639981651871"
+mobile = "+63 998 165 1871"
 email = "info@englishtestsexpert.co.uk"
 # contact form action
 contact_form_action = "+639981651871" # contact form works with https://formspree.io
@@ -160,4 +163,4 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+copyright = "IELTS is a registered trademark of University of Cambridge, the British Council, and IDP Education Australia. OET is a registered trademark of Cambridge Assessment English and Boxhill Institute. This site and its owners are not affiliated, approved or endorsed by the University of Cambridge ESOL, the British Council, IDP Education Australia, and Cambridge Boxhill Language Assessment. Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
