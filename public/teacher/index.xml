@@ -11,59 +11,5 @@
 	<atom:link href="https://eewebsite.netlify.app/teacher/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>Clark Malik</title>
-      <link>https://eewebsite.netlify.app/teacher/clark-malik/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eewebsite.netlify.app/teacher/clark-malik/</guid>
-      <description>About Me Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Devid Luis</title>
-      <link>https://eewebsite.netlify.app/teacher/devid-luis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eewebsite.netlify.app/teacher/devid-luis/</guid>
-      <description>About Me Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Duis Rio</title>
-      <link>https://eewebsite.netlify.app/teacher/duis-rio/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eewebsite.netlify.app/teacher/duis-rio/</guid>
-      <description>About Me Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Jacke Mastio</title>
-      <link>https://eewebsite.netlify.app/teacher/jacke-mastio/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eewebsite.netlify.app/teacher/jacke-mastio/</guid>
-      <description>About Me Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Roland Adala</title>
-      <link>https://eewebsite.netlify.app/teacher/alex-rook/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eewebsite.netlify.app/teacher/alex-rook/</guid>
-      <description>About The Founder &amp;amp; Director &amp;ldquo;We want YOU to achieve your target score in just one (1) take!</description>
-    </item>
-    
-    <item>
-      <title>Zim Cook</title>
-      <link>https://eewebsite.netlify.app/teacher/zim-cook/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eewebsite.netlify.app/teacher/zim-cook/</guid>
-      <description>About Me Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
   </channel>
 </rss>

@@ -67,11 +67,30 @@
     </item>
     
     <item>
+      <title>Contact Us Thank You</title>
+      <link>https://eewebsite.netlify.app/contact-us-thank-you/</link>
+      <pubDate>Fri, 07 Aug 2020 14:21:20 +0800</pubDate>
+      
+      <guid>https://eewebsite.netlify.app/contact-us-thank-you/</guid>
+      <description>This is my first blog
+Bla bla bla bla, you have made the payment.</description>
+    </item>
+    
+    <item>
       <title>Testblog1</title>
       <link>https://eewebsite.netlify.app/blog/testblog1/</link>
       <pubDate>Mon, 27 Jul 2020 15:28:51 +0800</pubDate>
       
       <guid>https://eewebsite.netlify.app/blog/testblog1/</guid>
+      <description>The standard Lorem Ipsum passage, used since the 1500s Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Elegant Light Box Paper Cut Dioramas</title>
+      <link>https://eewebsite.netlify.app/blog/blog-post-1/</link>
+      <pubDate>Mon, 06 Jul 2020 15:27:17 +0600</pubDate>
+      
+      <guid>https://eewebsite.netlify.app/blog/blog-post-1/</guid>
       <description>The standard Lorem Ipsum passage, used since the 1500s Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
@@ -91,15 +110,6 @@
       
       <guid>https://eewebsite.netlify.app/course/course-3/</guid>
       <description>About Course Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Elegant Light Box Paper Cut Dioramas</title>
-      <link>https://eewebsite.netlify.app/blog/blog-post-1/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://eewebsite.netlify.app/blog/blog-post-1/</guid>
-      <description>The standard Lorem Ipsum passage, used since the 1500s Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
@@ -319,42 +329,6 @@
     </item>
     
     <item>
-      <title>Clark Malik</title>
-      <link>https://eewebsite.netlify.app/teacher/clark-malik/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eewebsite.netlify.app/teacher/clark-malik/</guid>
-      <description>About Me Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Devid Luis</title>
-      <link>https://eewebsite.netlify.app/teacher/devid-luis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eewebsite.netlify.app/teacher/devid-luis/</guid>
-      <description>About Me Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Duis Rio</title>
-      <link>https://eewebsite.netlify.app/teacher/duis-rio/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eewebsite.netlify.app/teacher/duis-rio/</guid>
-      <description>About Me Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Jacke Mastio</title>
-      <link>https://eewebsite.netlify.app/teacher/jacke-mastio/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eewebsite.netlify.app/teacher/jacke-mastio/</guid>
-      <description>About Me Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
       <title>John doe</title>
       <link>https://eewebsite.netlify.app/author/john-doe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -370,24 +344,6 @@
       
       <guid>https://eewebsite.netlify.app/author/mark-dinn/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue.</description>
-    </item>
-    
-    <item>
-      <title>Roland Adala</title>
-      <link>https://eewebsite.netlify.app/teacher/alex-rook/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eewebsite.netlify.app/teacher/alex-rook/</guid>
-      <description>About The Founder &amp;amp; Director &amp;ldquo;We want YOU to achieve your target score in just one (1) take!</description>
-    </item>
-    
-    <item>
-      <title>Zim Cook</title>
-      <link>https://eewebsite.netlify.app/teacher/zim-cook/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eewebsite.netlify.app/teacher/zim-cook/</guid>
-      <description>About Me Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
   </channel>

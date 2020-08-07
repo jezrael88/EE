@@ -89,7 +89,7 @@
   translation: Courses
 
 - id: new_notice
-  translation: new notice
+  translation: OET SERVICES
 
 - id: call
   translation: call
@@ -108,3 +108,9 @@
 
 - id: download
   translation: Download
+
+- id: register
+  translation: "register"
+
+- id: login
+  translation: "login"

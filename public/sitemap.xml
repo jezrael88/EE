@@ -43,6 +43,11 @@
   </url>
   
   <url>
+    <loc>https://eewebsite.netlify.app/contact-us-thank-you/</loc>
+    <lastmod>2020-08-07T14:21:20+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://eewebsite.netlify.app/blog/</loc>
     <lastmod>2020-07-27T15:28:51+08:00</lastmod>
   </url>
@@ -74,7 +79,22 @@
   
   <url>
     <loc>https://eewebsite.netlify.app/tags/advice/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <lastmod>2020-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eewebsite.netlify.app/tags/automation/</loc>
+    <lastmod>2020-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eewebsite.netlify.app/categories/automation-system/</loc>
+    <lastmod>2020-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eewebsite.netlify.app/blog/blog-post-1/</loc>
+    <lastmod>2020-07-06T15:27:17+06:00</lastmod>
   </url>
   
   <url>
@@ -89,16 +109,6 @@
   
   <url>
     <loc>https://eewebsite.netlify.app/course/course-3/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eewebsite.netlify.app/tags/automation/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eewebsite.netlify.app/categories/automation-system/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
@@ -124,11 +134,6 @@
   
   <url>
     <loc>https://eewebsite.netlify.app/categories/education-system/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eewebsite.netlify.app/blog/blog-post-1/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
@@ -293,23 +298,7 @@
   </url>
   
   <url>
-    <loc>https://eewebsite.netlify.app/teacher/clark-malik/</loc>
-  </url>
-  
-  <url>
     <loc>https://eewebsite.netlify.app/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>https://eewebsite.netlify.app/teacher/devid-luis/</loc>
-  </url>
-  
-  <url>
-    <loc>https://eewebsite.netlify.app/teacher/duis-rio/</loc>
-  </url>
-  
-  <url>
-    <loc>https://eewebsite.netlify.app/teacher/jacke-mastio/</loc>
   </url>
   
   <url>
@@ -325,15 +314,7 @@
   </url>
   
   <url>
-    <loc>https://eewebsite.netlify.app/teacher/alex-rook/</loc>
-  </url>
-  
-  <url>
     <loc>https://eewebsite.netlify.app/scholarship/</loc>
-  </url>
-  
-  <url>
-    <loc>https://eewebsite.netlify.app/teacher/zim-cook/</loc>
   </url>
   
 </urlset>
