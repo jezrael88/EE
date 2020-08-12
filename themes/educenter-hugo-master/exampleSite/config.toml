@@ -129,7 +129,7 @@ address = "9567 Turner Trace Apt. BC C3G8A4"
 mobile = "+211234565523"
 email = "info@educenter.com"
 # contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+contact_form_action = "https://forms.hsforms.com/submissions/v3/public/submit/formsnext/multipart/8204493/47aa14c0-5227-4ea7-86fb-a311226f61cd" # contact form works with https://formspree.io
 # Google Analitycs
 google_analitycs_id = "" # your id
 # top header
