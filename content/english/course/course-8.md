@@ -1,5 +1,5 @@
 ---
-title: "IELTS Reading "
+title: "OET Speaking"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -9,7 +9,7 @@ description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do 
 # course thumbnail
 image: "images/courses/course-6.jpg"
 # taxonomy
-category: "IELTS"
+category: "OET"
 # teacher
 teacher: "Duis Rio"
 # duration
