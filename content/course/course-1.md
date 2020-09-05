@@ -5,7 +5,7 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "EE is an efficiency obsessed centre that helps test takers save time on test preparation while increasing results."
 # course thumbnail
 image: "images/courses/course-1.jpg"
 # taxonomy
@@ -13,7 +13,7 @@ category: "IELTS"
 # teacher
 teacher: "Clark Malik"
 # duration
-duration : "06 Month"
+duration : "03 - 10 Months"
 # weekly
 weekly : "03 hours"
 # course fee
