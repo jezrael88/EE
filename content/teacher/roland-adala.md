@@ -9,6 +9,7 @@ description : "Founder & Director of The Englishtests Expert"
 image: "images/teachers/teacher-2.jpg"
 # course
 course: "IELTS, OET"
+category: "IELTS"
 # biography
 bio: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque accusamus tenetur ea harum delectus ab consequatur excepturi, odit qui in quo quia voluptate nam optio, culpa aspernatur. Error placeat iusto officia voluptas quae."
 # interest

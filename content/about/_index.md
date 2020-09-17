@@ -7,6 +7,9 @@ bg_image: "images/backgrounds/page-title.jpg"
 image: "images/about/about-page.jpg"
 # meta description
 description : "EE is an efficiency obsessed centre that helps test takers save time on test preparation while increasing results."
+#teacher
+teacher: "Roland Adala"
+
 ---
 
 ## ABOUT OUR JOURNY
